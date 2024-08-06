@@ -3,3 +3,4 @@ uvicorn
 pytest
 pytest-asyncio
 faker
+snowflake-id==1.0.2
